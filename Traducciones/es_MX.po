@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-04 03:51+0000\n"
-"PO-Revision-Date: 2025-09-16 22:46-0600\n"
+"PO-Revision-Date: 2025-09-18 22:15-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -420,7 +420,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__academic_year_id
 msgid "Academic year of the student"
-msgstr ""
+msgstr "Años académico del estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -1082,7 +1082,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model,name:education_university_management.model_fee_category
 msgid "Categories of university fees"
-msgstr ""
+msgstr "Categorías de cuotas universitarias"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_account_bank_statement_line__fee_category_id
@@ -2277,24 +2277,24 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.ui.menu,name:education_university_management.menu_university_fee_root
 msgid "Fees"
-msgstr ""
+msgstr "Colegiaturas"
 
 #. module: education_university_management
 #: model:ir.ui.menu,name:education_university_management.menu_university_fee_management
 msgid "Fees Management"
-msgstr ""
+msgstr "Gestión de las Colegiaturas"
 
 #. module: education_university_management
 #: model:ir.model,name:education_university_management.model_fee_structure
 msgid "Fees structure of university"
-msgstr ""
+msgstr "Estructura de las colegiaturas de la Universidad"
 
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_application__gender__female
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_faculty__gender__female
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_student__gender__female
 msgid "Female"
-msgstr ""
+msgstr "Femenino"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__phone_sanitized
@@ -2308,12 +2308,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_faculty_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "First Name"
-msgstr ""
+msgstr "Primer Nombre"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__property_account_position_id
 msgid "Fiscal Position"
-msgstr ""
+msgstr "Posición Fiscal"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__message_follower_ids
@@ -2339,7 +2339,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__message_follower_ids
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__message_follower_ids
 msgid "Followers"
-msgstr ""
+msgstr "Seguidores"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__message_partner_ids
@@ -2365,7 +2365,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__message_partner_ids
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__message_partner_ids
 msgid "Followers (Partners)"
-msgstr ""
+msgstr "Seguidores (contactos)"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_result__activity_type_icon
@@ -2412,18 +2412,18 @@ msgstr ""
 #: model:ir.model.fields.selection,name:education_university_management.selection__timetable_schedule_line__week_day__4
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_timetable_view_form
 msgid "Friday"
-msgstr ""
+msgstr "Viernes"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_timetable_period__time_from
 #: model:ir.model.fields,field_description:education_university_management.field_timetable_schedule_line__time_from
 msgid "From"
-msgstr ""
+msgstr "De"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_attendance_line__full_day_absent
 msgid "Full Day"
-msgstr ""
+msgstr "Día Completo"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_attendance_line_view_tree
@@ -2436,22 +2436,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__gender
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Gender"
-msgstr ""
+msgstr "Género"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_faculty__gender
 msgid "Gender of the faculty"
-msgstr ""
+msgstr "Género del Profesor"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__partner_latitude
 msgid "Geo Latitude"
-msgstr ""
+msgstr "Geo Latitude"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__partner_longitude
 msgid "Geo Longitude"
-msgstr ""
+msgstr "Geo Latitude"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_fee_type__packaging_ids
@@ -2469,12 +2469,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__guardian_id
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Guardian"
-msgstr ""
+msgstr "Bienechor"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_attendance_line__half_day_absent
 msgid "Half Day"
-msgstr ""
+msgstr "Medio Día"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_attendance_line_view_tree
@@ -2505,7 +2505,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__has_message
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__has_message
 msgid "Has Message"
-msgstr ""
+msgstr "Tien un mensaje"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__has_unreconciled_entries
@@ -2515,7 +2515,7 @@ msgstr ""
 #. module: education_university_management
 #: model:res.groups,name:education_university_management.education_university_management_group_hod
 msgid "Head Of Department"
-msgstr ""
+msgstr "Cabeza de Departamento"
 
 #. module: education_university_management
 #: model:ir.module.category,description:education_university_management.module_category_university
@@ -2525,7 +2525,7 @@ msgstr ""
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_portal
 msgid "Home"
-msgstr ""
+msgstr "Casa"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_application_reject__id
@@ -2559,7 +2559,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__id
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__im_status
@@ -2590,7 +2590,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__activity_exception_icon
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__activity_exception_icon
 msgid "Icon"
-msgstr ""
+msgstr "Ícono"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_result__activity_exception_icon
@@ -2725,36 +2725,36 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_faculty__image
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__image_1920
 msgid "Image"
-msgstr ""
+msgstr "Imagen"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__image_1024
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__image_1024
 msgid "Image 1024"
-msgstr ""
+msgstr "Imagen 1024"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__image_128
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__image_128
 msgid "Image 128"
-msgstr ""
+msgstr "Imagen 128"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__image_256
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__image_256
 msgid "Image 256"
-msgstr ""
+msgstr "Imagen 256"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__image_512
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__image_512
 msgid "Image 512"
-msgstr ""
+msgstr "Imagen 512"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_faculty__image
 msgid "Image of the faculty"
-msgstr ""
+msgstr "Imagen de la facultad"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -2827,17 +2827,17 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__industry_id
 msgid "Industry"
-msgstr ""
+msgstr "Industria"
 
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_exam_type__exam_type__internal
 msgid "Internal"
-msgstr ""
+msgstr "Interna"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__default_code
 msgid "Internal Reference"
-msgstr ""
+msgstr "Referencia Interna"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_fee_type__barcode
@@ -2848,12 +2848,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__invoice_warn
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Invoice"
-msgstr ""
+msgstr "Factura"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__invoice_ids
 msgid "Invoices"
-msgstr ""
+msgstr "Facturas"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_attendance__is_attendance_created
@@ -2870,7 +2870,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_account_move__is_fee
 #: model:ir.model.fields,field_description:education_university_management.field_account_payment__is_fee
 msgid "Is Fee"
-msgstr ""
+msgstr "Es Colegiatura"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__message_is_follower
@@ -2896,51 +2896,51 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__message_is_follower
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__message_is_follower
 msgid "Is Follower"
-msgstr ""
+msgstr "Es Seguidor"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__is_product_variant
 msgid "Is Product Variant"
-msgstr ""
+msgstr "Es una variante de producto"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__is_public
 msgid "Is Public"
-msgstr ""
+msgstr "Es Público"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__is_published
 msgid "Is Published"
-msgstr ""
+msgstr "Está publicado"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_account_journal__is_fee
 msgid "Is University fee?"
-msgstr ""
+msgstr "¿Es una colegiatura universitaria?"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__is_company
 msgid "Is a Company"
-msgstr ""
+msgstr "Es una compañia"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_res_partner__is_parent
 #: model:ir.model.fields,field_description:education_university_management.field_res_users__is_parent
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__is_parent
 msgid "Is a Parent"
-msgstr ""
+msgstr "Es un familiar"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_res_partner__is_student
 #: model:ir.model.fields,field_description:education_university_management.field_res_users__is_student
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__is_student
 msgid "Is a Student"
-msgstr ""
+msgstr "Es un estudiante "
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__has_configurable_attributes
 msgid "Is a configurable product"
-msgstr ""
+msgstr "Es un producto configurable "
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_attendance__is_all_marked_afternoon
@@ -4973,36 +4973,36 @@ msgstr "Estudiante"
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_tree
 msgid "Student Application"
-msgstr ""
+msgstr "Aplicación de  Estudiante"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.view_attendance_students_action
 #: model:ir.ui.menu,name:education_university_management.university_attendance_menu
 msgid "Student Attendance"
-msgstr ""
+msgstr "Asistencia de Estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_attendance_line_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "Student Details"
-msgstr ""
+msgstr "Detalles del Estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_documents
 msgid "Student Documents"
-msgstr ""
+msgstr "Documentos del Estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_exam_result
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_result
 msgid "Student Exam Result"
-msgstr ""
+msgstr "Resultado del Examen del Estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "Student Info"
-msgstr ""
+msgstr "Información del Estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_portal
@@ -5017,7 +5017,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__blood_group
 msgid "Student blood group details"
-msgstr ""
+msgstr "Detalles del grupo de sangre del estudiante"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__caste
@@ -5192,7 +5192,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_syllabus_view_from
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_syllabus_view_tree
 msgid "Syllabus"
-msgstr "Materias"
+msgstr "Retícula de materias"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_syllabus__name
