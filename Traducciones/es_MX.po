@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-04 03:51+0000\n"
-"PO-Revision-Date: 2025-09-18 22:15-0600\n"
+"PO-Revision-Date: 2025-09-23 17:04-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -954,42 +954,42 @@ msgstr "Detalles Básicos"
 #: model:ir.ui.menu,name:education_university_management.university_batch_menu
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_batch_view_tree
 msgid "Batch"
-msgstr ""
+msgstr "Grupo"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.view_attendance_batch_action
 msgid "Batch Attendance"
-msgstr ""
+msgstr "Asistencia por Grupo"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_batch__batch_strength
 msgid "Batch Strength"
-msgstr ""
+msgstr "Tamaño del Grupo"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_timetable__academic_year_id
 msgid "Batch academic year"
-msgstr ""
+msgstr "Año Académico del Grupo"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_timetable__batch_id
 msgid "Batch of the timetable"
-msgstr ""
+msgstr "Horario del Grupo"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_batch__faculty_id
 msgid "Batch tutor/Faculty"
-msgstr ""
+msgstr "Tutor de Grupo"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Bill Date"
-msgstr ""
+msgstr "Fecha de Pago"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Bill Reference"
-msgstr ""
+msgstr "Referencia de Pago"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__is_blacklisted
@@ -1761,7 +1761,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_type_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_type_view_tree
 msgid "Document Type"
-msgstr ""
+msgstr "Tipo de Documento"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_document__verified_by_id
@@ -2109,20 +2109,20 @@ msgstr ""
 #: model:ir.ui.menu,name:education_university_management.menu_university_exam_root
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_exam_result
 msgid "Exam"
-msgstr ""
+msgstr "Examen"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.exam_result_action
 #: model:ir.model,name:education_university_management.model_exam_result
 #: model:ir.ui.menu,name:education_university_management.exam_result_menu
 msgid "Exam Result"
-msgstr ""
+msgstr "Resultados del Examen"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_portal
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "Exam Results"
-msgstr ""
+msgstr "Resultados del Examen"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.view_exam_results_students
@@ -2133,29 +2133,29 @@ msgstr ""
 #: model:ir.actions.act_window,name:education_university_management.university_exam_type_action
 #: model:ir.model.fields,field_description:education_university_management.field_university_exam_type__exam_type
 msgid "Exam Type"
-msgstr ""
+msgstr "Tipo de Examen"
 
 #. module: education_university_management
 #: model:ir.ui.menu,name:education_university_management.university_exam_type_menu
 msgid "Exam Types"
-msgstr ""
+msgstr "Tipos de Examen"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.exam_valuation_action
 #: model:ir.model,name:education_university_management.model_exam_valuation
 #: model:ir.ui.menu,name:education_university_management.exam_valuation_menu
 msgid "Exam Valuation"
-msgstr ""
+msgstr "Evaluación del Examen"
 
 #. module: education_university_management
 #: model:ir.model,name:education_university_management.model_exam_valuation_line
 msgid "Exam Valuation Line"
-msgstr ""
+msgstr "Linea de Evaluación del Examen"
 
 #. module: education_university_management
 #: model:ir.ui.menu,name:education_university_management.university_exam_menu
 msgid "Exams"
-msgstr ""
+msgstr "Exámenes"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__property_account_expense_id
@@ -2171,12 +2171,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_faculty_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_faculty_view_tree
 msgid "Faculty"
-msgstr ""
+msgstr "Profesor"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_batch_view_kanban
 msgid "Faculty :"
-msgstr ""
+msgstr "Profesor:"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_attendance__faculty_id
@@ -2189,12 +2189,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__father_name
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Father"
-msgstr ""
+msgstr "Papá"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__priority
 msgid "Favorite"
-msgstr ""
+msgstr "Favorito"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_structure_line__fee_type_id
@@ -4015,7 +4015,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:education_university_management.timetable_period_action
 #: model:ir.ui.menu,name:education_university_management.timetable_period_menu
 msgid "Periods"
-msgstr ""
+msgstr "Periodos"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
@@ -4237,12 +4237,12 @@ msgstr ""
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Register Payment"
-msgstr ""
+msgstr "Registro de Pago"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 msgid "Reject"
-msgstr ""
+msgstr "Rechazado"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.application_reject_action
@@ -4251,13 +4251,13 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.reject_reasons_view_tree
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 msgid "Reject Reason"
-msgstr ""
+msgstr "Razones del Rechazo"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.reject_reason_action
 #: model:ir.ui.menu,name:education_university_management.menu_reject_reasons_conf
 msgid "Reject Reasons"
-msgstr ""
+msgstr "Razones del Rechazo"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_reject_reason__name
@@ -4267,7 +4267,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_application__state__reject
 msgid "Rejected"
-msgstr ""
+msgstr "Rechazado"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_application_reject__reject_reason_id
@@ -4282,7 +4282,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_faculty__employee_id
 msgid "Related Employee"
-msgstr ""
+msgstr "Empleado Relacionado"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__user_id
@@ -4334,7 +4334,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__religion
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Religion"
-msgstr ""
+msgstr "Religión"
 
 #. module: education_university_management
 #: model:ir.ui.menu,name:education_university_management.menu_university_report_root
@@ -5150,34 +5150,34 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_faculty__subject_line_ids
 msgid "Subjects of Faculty"
-msgstr ""
+msgstr "Materias del Profesor"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_results_subject_line__subject_id
 #: model:ir.model.fields,help:education_university_management.field_university_exam__subject_line_ids
 msgid "Subjects of the exam"
-msgstr ""
+msgstr "Materias del Examen"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation__subject_ids
 msgid "Subjects under the exam"
-msgstr ""
+msgstr "Materias bajo examen"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.application_reject_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.online_admission
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Subtotal"
-msgstr ""
+msgstr "Subtotal"
 
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__timetable_schedule_line__week_day__6
 msgid "Sunday"
-msgstr ""
+msgstr "Domingo"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__supplier_rank
