@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-04 03:51+0000\n"
-"PO-Revision-Date: 2025-09-23 17:04-0600\n"
+"PO-Revision-Date: 2025-09-25 21:02-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -1597,7 +1597,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__date_of_birth
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Date of Birth"
-msgstr ""
+msgstr "Fecha de Nacimiento"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__date_of_birth
@@ -1796,7 +1796,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_exam__state__draft
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Draft"
-msgstr ""
+msgstr "Borrador"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -3042,7 +3042,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__lang
 #: model:ir.model.fields,field_description:education_university_management.field_university_subject__is_language
 msgid "Language"
-msgstr ""
+msgstr "Lenguaje"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_application_reject____last_update
@@ -3076,7 +3076,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus____last_update
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Modificado por última vez"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__last_name
@@ -3086,7 +3086,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_faculty_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "Last Name"
-msgstr ""
+msgstr "Apellido"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_application_reject__write_uid
@@ -3159,7 +3159,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__last_name
 msgid "Last name of student"
-msgstr ""
+msgstr "Apellido del estudiante"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__calendar_last_notif_ack
@@ -3220,7 +3220,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_faculty__gender__male
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_student__gender__male
 msgid "Male"
-msgstr ""
+msgstr "Masculino"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_subject_line__mark
@@ -3291,7 +3291,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__meeting_ids
 msgid "Meetings"
-msgstr ""
+msgstr "Reuniones"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__message_has_error
@@ -3368,7 +3368,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_faculty__mobile
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__mobile
 msgid "Mobile"
-msgstr ""
+msgstr "Celular"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__description
@@ -3480,49 +3480,49 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__name
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_timetable_view_form
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_batch__name
 msgid "Name of the Batch"
-msgstr ""
+msgstr "Nombre del Grupo"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_academic_year__name
 msgid "Name of the academic year"
-msgstr ""
+msgstr "Nombre del año académico"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_attendance__name
 #: model:ir.model.fields,help:education_university_management.field_university_attendance_line__name
 msgid "Name of the attendance"
-msgstr ""
+msgstr "Nombre de la asistencia"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_course__name
 #: model:ir.model.fields,help:education_university_management.field_university_department__name
 msgid "Name of the course"
-msgstr ""
+msgstr "Nombre del curso"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_document_type__name
 msgid "Name of the document type"
-msgstr ""
+msgstr "Nombre del tipo de documento"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_exam__name
 msgid "Name of the exam"
-msgstr ""
+msgstr "Nombre del examen"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_result__name
 msgid "Name of the exam result"
-msgstr ""
+msgstr "Nombre del resultado del examen"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_exam_type__name
 msgid "Name of the exam type"
-msgstr ""
+msgstr "Nombre del tipo de examen"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation__name
@@ -3532,40 +3532,40 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_results_subject_line__name
 msgid "Name of the result"
-msgstr ""
+msgstr "Nombre del resultado"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_semester__name
 msgid "Name of the semester"
-msgstr ""
+msgstr "Nombre del Semestre"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_subject__name
 msgid "Name of the subject"
-msgstr ""
+msgstr "Nombre de la materia"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_timetable__name
 msgid "Name of the timetable"
-msgstr ""
+msgstr "Nombre del horario"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__nationality_id
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__nationality_id
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Nationality"
-msgstr ""
+msgstr "Nacionalidad"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__nationality_id
 #: model:ir.model.fields,help:education_university_management.field_university_student__per_country_id
 msgid "Nationality of student"
-msgstr ""
+msgstr "Nacionalidad del estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_view_form
 msgid "Need Correction"
-msgstr ""
+msgstr "Necesita correción"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_view_form
@@ -6219,4 +6219,4 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_timetable_schedule_line__period_id
 msgid "select period"
-msgstr ""
+msgstr "selecciona periodo"
