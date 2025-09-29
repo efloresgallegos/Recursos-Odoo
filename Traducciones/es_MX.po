@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-04 03:51+0000\n"
-"PO-Revision-Date: 2025-09-25 21:02-0600\n"
+"PO-Revision-Date: 2025-09-28 20:49-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -405,17 +405,17 @@ msgstr "Año académico:"
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_exam__academic_year_id
 msgid "Academic year of batch"
-msgstr ""
+msgstr "Año académico del grupo"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_result__academic_year_id
 msgid "Academic year of the batch"
-msgstr ""
+msgstr "Año académico del grupo"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation__academic_year_id
 msgid "Academic year of the selected batch"
-msgstr ""
+msgstr "Año académico del grupo seleccionado"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__academic_year_id
@@ -425,32 +425,32 @@ msgstr "Años académico del estudiante"
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Account Entry"
-msgstr ""
+msgstr "Entrada de contabilidad"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__property_account_payable_id
 msgid "Account Payable"
-msgstr ""
+msgstr "Cuentas por pagar"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__property_account_receivable_id
 msgid "Account Receivable"
-msgstr ""
+msgstr "Cuentas por cobrar"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__account_tag_ids
 msgid "Account Tags"
-msgstr ""
+msgstr "Etiquetas de contabilidad"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Accounting"
-msgstr ""
+msgstr "Contabilidad"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Accounting Date"
-msgstr ""
+msgstr "Fecha de contabilidad"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__message_needaction
@@ -476,7 +476,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__message_needaction
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "Acción necesaria"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__active
@@ -484,12 +484,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__active
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__active
 msgid "Active"
-msgstr ""
+msgstr "Activo"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__active_lang_count
 msgid "Active Lang Count"
-msgstr ""
+msgstr "Recuento de idiomas activos"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__activity_ids
@@ -515,7 +515,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__activity_ids
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "Actividades"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__activity_exception_decoration
@@ -541,7 +541,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__activity_exception_decoration
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr ""
+msgstr "Decoración de excepciones de actividad"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__activity_state
@@ -567,7 +567,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__activity_state
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "Estado de la actividad"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__activity_type_icon
@@ -593,58 +593,58 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__activity_type_icon
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__activity_type_icon
 msgid "Activity Type Icon"
-msgstr ""
+msgstr "Icono de tipo de actividad"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Add Credit Note"
-msgstr ""
+msgstr "Agregar nota de crédito"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Add a line"
-msgstr ""
+msgstr "Agregar línea"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Add a note"
-msgstr ""
+msgstr "Agregar una nota"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Add a section"
-msgstr ""
+msgstr "Agregar una sección"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Add an internal note..."
-msgstr ""
+msgstr "Agregar una nota interna"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_structure__description
 msgid "Additional Information"
-msgstr ""
+msgstr "Información adicional"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__additional_product_tag_ids
 msgid "Additional Product Tag"
-msgstr ""
+msgstr "Etiqueta adicional del producto"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__additional_info
 msgid "Additional info"
-msgstr ""
+msgstr "Información adicional"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "Address"
-msgstr ""
+msgstr "Domicilio"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__type
 msgid "Address Type"
-msgstr ""
+msgstr "Tipo de domicilio"
 
 #. module: education_university_management
 #: model:ir.ui.menu,name:education_university_management.menu_university_admission_root
@@ -676,17 +676,17 @@ msgstr "Número de admisión"
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__admission_date
 msgid "Admission Taken date"
-msgstr ""
+msgstr "Fecha de admisión"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__admission_no
 msgid "Admission no. of the student "
-msgstr ""
+msgstr "Número de admisión del estudiante "
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_attendance_line__is_present_afternoon
 msgid "After Noon"
-msgstr ""
+msgstr "Después del mediodía"
 
 #. module: education_university_management
 #. odoo-python
@@ -694,21 +694,22 @@ msgstr ""
 #, python-format
 msgid "All Documents are not Verified Yet, Please complete the verification"
 msgstr ""
+"Todos los documentos aún no han sido verificados. Complete la verificación."
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__all_product_tag_ids
 msgid "All Product Tag"
-msgstr ""
+msgstr "Etiqueta de todos los productos"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_attendance__is_all_marked_afternoon
 msgid "All students are present in the afternoon"
-msgstr ""
+msgstr "Todos los estudiantes están presentes por la tarde."
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_attendance__is_all_marked_morning
 msgid "All students are present in the morning"
-msgstr ""
+msgstr "Todos los estudiantes están presentes por la mañana."
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__lang
@@ -716,6 +717,8 @@ msgid ""
 "All the emails and documents sent to this contact will be translated in this "
 "language."
 msgstr ""
+"Todos los correos electrónicos y documentos enviados a este contacto se "
+"traducirán a este idioma."
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_structure__amount_total
@@ -723,17 +726,17 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.fee_type_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.fee_type_view_tree
 msgid "Amount"
-msgstr ""
+msgstr "Cantidad"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_fee_structure_line__fee_amount
 msgid "Amount of the each fee type"
-msgstr ""
+msgstr "Importe de cada tipo de colegiatura"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_fee_structure__description
 msgid "Any additional information about"
-msgstr ""
+msgstr "Cualquier información adicional sobre"
 
 #. module: education_university_management
 #: model:ir.ui.menu,name:education_university_management.menu_university_application_management
@@ -765,42 +768,42 @@ msgstr "La aplicación es rechazada debido"
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__application_id
 msgid "Application no of student"
-msgstr ""
+msgstr "Número de solicitud del estudiante"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__application_no
 msgid "Application number of new admission"
-msgstr ""
+msgstr "Número de solicitud de nueva admisión"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__application_no
 msgid "Application number of the student"
-msgstr ""
+msgstr "Número de solicitud del estudiante"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_document__application_ref_id
 msgid "Application reference of document"
-msgstr ""
+msgstr "Referencia de solicitud del documento"
 
 #. module: education_university_management
 #: model:ir.model,name:education_university_management.model_reject_reason
 msgid "Application reject reasons"
-msgstr ""
+msgstr "Razones para rechazar una solicitud"
 
 #. module: education_university_management
 #: model:ir.model,name:education_university_management.model_university_application
 msgid "Applications for the admission"
-msgstr ""
+msgstr "Solicitudes de admisión"
 
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_application__state__approve
 msgid "Approve"
-msgstr ""
+msgstr "Aprobar"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_document__attachment_ids
 msgid "Attachment"
-msgstr ""
+msgstr "Adjunto"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__message_attachment_count
@@ -826,12 +829,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__message_attachment_count
 #: model:ir.model.fields,field_description:education_university_management.field_university_timetable__message_attachment_count
 msgid "Attachment Count"
-msgstr ""
+msgstr "Número de archivos adjuntos"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_view_form
 msgid "Attachment File"
-msgstr ""
+msgstr "Archivo adjunto"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.university_attendance_action
@@ -871,7 +874,7 @@ msgstr "Fecha de asistencia"
 #: code:addons/education_university_management/models/university_attendance.py:0
 #, python-format
 msgid "Attendance for this batch on this date already exists."
-msgstr ""
+msgstr "Ya existe asistencia para este grupo en esta fecha."
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__product_template_attribute_value_ids
