@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-04 03:51+0000\n"
-"PO-Revision-Date: 2025-09-28 20:49-0600\n"
+"PO-Revision-Date: 2025-09-30 20:52-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -1002,12 +1002,12 @@ msgstr "Lista negra"
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__mobile_blacklisted
 msgid "Blacklisted Phone Is Mobile"
-msgstr ""
+msgstr "El teléfono en la lista negra es el celular"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__phone_blacklisted
 msgid "Blacklisted Phone is Phone"
-msgstr ""
+msgstr "El teléfono en la lista negra es el teléfono"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__blood_group
@@ -1015,12 +1015,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__blood_group
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Blood Group"
-msgstr ""
+msgstr "Grupo de Sangre"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_faculty__blood_group
 msgid "Blood group of faculty"
-msgstr ""
+msgstr "Grupo sanguíneo del profesorado"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__message_bounce
@@ -1035,7 +1035,7 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__can_publish
 msgid "Can Publish"
-msgstr ""
+msgstr "Puede Publicarse"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__can_image_variant_1024_be_zoomed
@@ -1045,12 +1045,12 @@ msgstr ""
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__purchase_ok
 msgid "Can be Purchased"
-msgstr ""
+msgstr "Puede ser comprado"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__sale_ok
 msgid "Can be Sold"
-msgstr ""
+msgstr "Puede ser vendido"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -1062,7 +1062,7 @@ msgstr "Cancelar"
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Cancel Entry"
-msgstr ""
+msgstr "Entrada cancelada"
 
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__exam_valuation__state__cancel
@@ -1073,14 +1073,14 @@ msgstr "Cancelado"
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Cash Basis Entries"
-msgstr ""
+msgstr "Entradas en efectivo"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__caste
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__caste
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_info
 msgid "Caste"
-msgstr ""
+msgstr "Casta"
 
 #. module: education_university_management
 #: model:ir.model,name:education_university_management.model_fee_category
@@ -1105,7 +1105,7 @@ msgstr "Categoria de tipos de colegiaturas"
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__certifications_count
 msgid "Certifications Count"
-msgstr ""
+msgstr "Las certificaciones cuentan"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -1121,16 +1121,17 @@ msgstr "Canales"
 #: model:ir.model.fields,help:education_university_management.field_university_student__is_company
 msgid "Check if the contact is a company, otherwise it is a person"
 msgstr ""
+"Comprueba si el contacto es una empresa; de lo contrario, es una persona."
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__employee
 msgid "Check this box if this contact is an Employee."
-msgstr ""
+msgstr "Marque esta casilla si este contacto es un empleado."
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__academic_year_id
 msgid "Choose Academic year for which the admission is choosing"
-msgstr ""
+msgstr "Elija el año académico para el que se solicita la admisión."
 
 #. module: education_university_management
 #: model:ir.model,name:education_university_management.model_application_reject
@@ -1145,22 +1146,22 @@ msgstr "Escoger el año académico"
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation__subject_id
 msgid "Choose subject of the exam for valuation"
-msgstr ""
+msgstr "Elija la materia del examen para la valoración."
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation__batch_id
 msgid "Choose the batch that you want to evaluate"
-msgstr ""
+msgstr "Elija el grupo que desea evaluar."
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_document__document_type_id
 msgid "Choose the type of document"
-msgstr ""
+msgstr "Elija el tipo de documento"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_subject__type
 msgid "Choose the type of the subject"
-msgstr ""
+msgstr "Elije el tipo de la materia"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__city
@@ -1170,70 +1171,70 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "City"
-msgstr ""
+msgstr "Ciudad"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 msgid "Click to create Student"
-msgstr ""
+msgstr "Click para crear un estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_faculty_view_form
 msgid "Click to create employee for this faculty"
-msgstr ""
+msgstr "Haga clic para crear un empleado para esta facultad."
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 msgid "Click to send the application for verification purpose"
-msgstr ""
+msgstr "Haga clic para enviar la solicitud con fines de verificación."
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 msgid "Click to verify the application and documents"
-msgstr ""
+msgstr "Haga clic para verificar la solicitud y los documentos."
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_view_form
 msgid "Click to verify the document"
-msgstr ""
+msgstr "Haga clic para verificar el documento."
 
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_exam__state__close
 msgid "Closed"
-msgstr ""
+msgstr "Cerrado"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_department__code
 #: model:ir.model.fields,field_description:education_university_management.field_university_subject__code
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__subject_code
 msgid "Code"
-msgstr ""
+msgstr "Código"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_department__code
 msgid "Code of the course"
-msgstr ""
+msgstr "Código de el curso"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__color
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__color
 msgid "Color Index"
-msgstr ""
+msgstr "Color Index"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__combination_indices
 msgid "Combination Indices"
-msgstr ""
+msgstr "Combinación de índices"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__commercial_partner_id
 msgid "Commercial Entity"
-msgstr ""
+msgstr "Entidad comercial"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__ref_company_ids
 msgid "Companies that refers to partner"
-msgstr ""
+msgstr "Empresas que se refieren a socios"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_exam_result__company_id
@@ -1254,7 +1255,7 @@ msgstr "Compañia"
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__certifications_company_count
 msgid "Company Certifications Count"
-msgstr ""
+msgstr "Certificaciones de la empresa"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__company_registry
