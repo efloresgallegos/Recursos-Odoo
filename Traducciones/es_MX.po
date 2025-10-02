@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-04 03:51+0000\n"
-"PO-Revision-Date: 2025-09-30 20:52-0600\n"
+"PO-Revision-Date: 2025-10-01 23:11-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -6009,28 +6009,28 @@ msgstr ""
 #: model:ir.model.fields.selection,name:education_university_management.selection__timetable_schedule_line__week_day__2
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_timetable_view_form
 msgid "Wednesday"
-msgstr ""
+msgstr "Miércoles"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_timetable_schedule_line__week_day
 msgid "Week"
-msgstr ""
+msgstr "Semana"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__weight
 msgid "Weight"
-msgstr ""
+msgstr "Peso"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__weight_uom_name
 msgid "Weight unit of measure label"
-msgstr ""
+msgstr "Etiqueta de unidad de medida de peso"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_subject__weightage
 #: model:ir.model.fields,field_description:education_university_management.field_university_syllabus__subject_weightage
 msgid "Weightage"
-msgstr ""
+msgstr "Ponderación"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__tz
@@ -6041,109 +6041,115 @@ msgid ""
 "Anywhere else, time values are computed according to the time offset of your "
 "web client."
 msgstr ""
+"Al imprimir documentos y exportar/importar datos, los valores de tiempo se "
+"calculan según esta zona horaria.\n"
+"Si no se ha establecido la zona horaria, se utiliza UTC (Tiempo Universal "
+"Coordinado).\n"
+"En cualquier otro lugar, los valores de tiempo se calculan según la "
+"diferencia horaria de su cliente web."
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_result__batch_id
 msgid "Which batch does this result belong to"
-msgstr ""
+msgstr "¿A qué grupo pertenece este resultado?"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_exam__batch_id
 msgid "Which batch's exam is"
-msgstr ""
+msgstr "¿Cuál es el examen de ese grupo?"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_result__company_id
 msgid "Which company's result is"
-msgstr ""
+msgstr "¿Cuál es el resultado de la universidad?"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__course_id
 msgid "Which course in the department"
-msgstr ""
+msgstr "¿Qué curso del departamento?"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__department_id
 msgid "Which department in semester"
-msgstr ""
+msgstr "¿Qué departamento en el semestre?"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_result__exam_id
 msgid "Which exam does this result belong to"
-msgstr ""
+msgstr "¿A qué examen pertenece este resultado?"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__semester_id
 msgid "Which semester of student is"
-msgstr ""
+msgstr "¿En qué semestre está el estudiante?"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_document__attachment_ids
 msgid "You can attach the copy of your document"
-msgstr ""
+msgstr "Puede adjuntar la copia de su documento."
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "You have"
-msgstr ""
+msgstr "Tienes"
 
 #. module: education_university_management
 #: model_terms:ir.actions.act_window,help:education_university_management.timetable_period_action
 msgid "You have'nt created any Schedules yet."
-msgstr ""
+msgstr "Aún no ha creado ningún horario."
 
 #. module: education_university_management
 #: model_terms:ir.actions.act_window,help:education_university_management.university_timetable_action
 msgid "You haven't created any timetable yet."
-msgstr ""
+msgstr "Aún no ha creado ningún horario."
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__blood_group
 msgid "Your Blood Group is"
-msgstr ""
+msgstr "Tu grupo sanguíneo es"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_faculty__father_name
 msgid "Your Father name is "
-msgstr ""
+msgstr "El nombre de tu papá es "
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__gender
 msgid "Your Gender is"
-msgstr ""
+msgstr "Tu género es"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_faculty__mother_name
 msgid "Your Mother name is "
-msgstr ""
+msgstr "El nombre de tu madre es "
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_faculty__guardian_id
 msgid "Your guardian is "
-msgstr ""
+msgstr "Tu tutor es "
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_form
 msgid "ZIP"
-msgstr ""
+msgstr "Código Postal"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__per_zip
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__zip
 msgid "ZIP code"
-msgstr ""
+msgstr "Código Postal "
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__per_zip
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__zip
 msgid "Zip"
-msgstr ""
+msgstr "Código Postal"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__per_zip
 msgid "Zip/Pincode details"
-msgstr ""
+msgstr "Código Postal/Detalles"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -6151,6 +6157,8 @@ msgid ""
 "activate\n"
 "                    the currency of the bill"
 msgstr ""
+"activar\n"
+"               la moneda del pago"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -6158,18 +6166,20 @@ msgid ""
 "activate\n"
 "                    the currency of the invoice"
 msgstr ""
+"activar\n"
+"                  la moneda de la factura"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "auto-posting enabled. Next accounting date:"
-msgstr ""
+msgstr "Publicación automática habilitada. Próxima fecha contable:"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_account_bank_statement_line__batch_id
 #: model:ir.model.fields,help:education_university_management.field_account_move__batch_id
 #: model:ir.model.fields,help:education_university_management.field_account_payment__batch_id
 msgid "batch of the student"
-msgstr ""
+msgstr "grupo de estudiantes"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
@@ -6203,22 +6213,22 @@ msgstr ""
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "one of those bills"
-msgstr ""
+msgstr "una de esos pagos"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "outstanding credits"
-msgstr ""
+msgstr "créditos pendientes"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "outstanding debits"
-msgstr ""
+msgstr "deudas pendientes"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation_line__valuation_id
 msgid "relation to exam valuation model"
-msgstr ""
+msgstr "relación con el modelo de valoración de exámenes"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_timetable_schedule_line__period_id
