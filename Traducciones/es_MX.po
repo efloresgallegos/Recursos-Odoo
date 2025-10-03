@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-04 03:51+0000\n"
-"PO-Revision-Date: 2025-10-01 23:11-0600\n"
+"PO-Revision-Date: 2025-10-03 16:29-0600\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -798,7 +798,7 @@ msgstr "Solicitudes de admisión"
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_application__state__approve
 msgid "Approve"
-msgstr "Aprobar"
+msgstr "Aprobado"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_document__attachment_ids
@@ -4531,19 +4531,19 @@ msgstr ""
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Section"
-msgstr ""
+msgstr "Sección"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_application_reject__reject_reason_id
 msgid "Select Reason for rejecting the Applications"
-msgstr ""
+msgstr "Seleccione el motivo por el que se rechazan las solicitudes"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_account_bank_statement_line__fee_category_id
 #: model:ir.model.fields,help:education_university_management.field_account_move__fee_category_id
 #: model:ir.model.fields,help:education_university_management.field_account_payment__fee_category_id
 msgid "Select a fee category"
-msgstr ""
+msgstr "Seleccione una categoría de colegiatura"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_account_bank_statement_line__fee_structure_id
@@ -4553,117 +4553,117 @@ msgstr ""
 #: model:ir.model.fields,help:education_university_management.field_account_payment__fee_structure_id
 #: model:ir.model.fields,help:education_university_management.field_account_payment__fee_structure_ids
 msgid "Select a fee structure"
-msgstr ""
+msgstr "Selecciona una estructura de colegiatura"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation__evaluator_id
 msgid "Select a valuation evaluator"
-msgstr ""
+msgstr "Seleccione un evaluador de valoración"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Select an old vendor bill"
-msgstr ""
+msgstr "Seleccione una factura antigua de un proveedor"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_attendance__batch_id
 #: model:ir.model.fields,help:education_university_management.field_university_attendance_line__batch_id
 msgid "Select batch for the attendance"
-msgstr ""
+msgstr "Seleccionar grupo para la asistencia"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_attendance__date
 msgid "Select date of attendance"
-msgstr ""
+msgstr "Selecciona la fecha de asistencia"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_subject_line__date
 msgid "Select date of the subject"
-msgstr ""
+msgstr "Selecciona la fecha de la materia"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_syllabus__department_id
 msgid "Select department for syllabus"
-msgstr ""
+msgstr "Seleccione el departamento para ver el programa de estudios"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_valuation__exam_id
 msgid "Select exam for valuation"
-msgstr ""
+msgstr "Seleccionar examen para la valoración"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_exam_type__exam_type
 msgid "Select exam type for exams"
-msgstr ""
+msgstr "Seleccionar tipo de examen para los exámenes"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_fee_structure_line__fee_type_id
 msgid "Select fee types"
-msgstr ""
+msgstr "Seleccionar tipos de colegiatura"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_syllabus__semester_id
 msgid "Select semester for syllabus"
-msgstr ""
+msgstr "Selecciona el semestre para ver el programa de estudios"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_account_bank_statement_line__student_id
 #: model:ir.model.fields,help:education_university_management.field_account_move__student_id
 #: model:ir.model.fields,help:education_university_management.field_account_payment__student_id
 msgid "Select student for creating fee receipt"
-msgstr ""
+msgstr "Seleccionar estudiante para crear recibo de pago"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_syllabus__subject_id
 msgid "Select subject for syllabus"
-msgstr ""
+msgstr "Seleccionar materia para el programa de estudios"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_exam_subject_line__subject_id
 msgid "Select subjects of exam"
-msgstr ""
+msgstr "Seleccionar materias del examen"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_fee_structure__category_id
 msgid "Select th category for structure"
-msgstr ""
+msgstr "Seleccione la categoría para la estructura"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__country_id
 #: model:ir.model.fields,help:education_university_management.field_university_application__per_country_id
 msgid "Select the Country"
-msgstr ""
+msgstr "Selecciona el país"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__nationality_id
 msgid "Select the Nationality"
-msgstr ""
+msgstr "Selecciona la nacionalidad"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_application__per_state_id
 #: model:ir.model.fields,help:education_university_management.field_university_application__state_id
 msgid "Select the State where you are from"
-msgstr ""
+msgstr "Seleccione el estado del que es originario"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_batch__academic_year_id
 msgid "Select the academic year"
-msgstr ""
+msgstr "Seleccione el año académico"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_batch__semester_id
 msgid "Select the semester"
-msgstr ""
+msgstr "Selecciona el semestre"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_timetable_schedule_line__subject
 msgid "Select the subject to schedule timetable"
-msgstr ""
+msgstr "Seleccione la asignatura para programar el horario"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_timetable_schedule_line__week_day
 msgid "Select week for scheduling period"
-msgstr ""
+msgstr "Seleccione la semana para el periodo de programación"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__invoice_warn
@@ -4672,11 +4672,15 @@ msgid ""
 "Selecting \"Blocking Message\" will throw an exception with the message and "
 "block the flow. The Message has to be written in the next field."
 msgstr ""
+"Al seleccionar la opción «Advertencia», se notificará al usuario con el "
+"mensaje. Al seleccionar «Bloquear mensaje», se generará una excepción con el "
+"mensaje y se bloqueará el flujo. El mensaje debe escribirse en el siguiente "
+"campo"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__self
 msgid "Self"
-msgstr ""
+msgstr "Yo mismo"
 
 #. module: education_university_management
 #: model:ir.actions.act_window,name:education_university_management.university_semester_action
@@ -4696,74 +4700,76 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_semester_view_form
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_semester_view_tree
 msgid "Semester"
-msgstr ""
+msgstr "Semestre"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_student_view_kanban
 msgid "Semester :"
-msgstr ""
+msgstr "Semestre:"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_semester__semester_no
 msgid "Semester number"
-msgstr ""
+msgstr "Número de semestre"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_account_bank_statement_line__semester_id
 #: model:ir.model.fields,help:education_university_management.field_account_move__semester_id
 #: model:ir.model.fields,help:education_university_management.field_account_payment__semester_id
 msgid "Semester of the student"
-msgstr ""
+msgstr "Semestre del estudiante"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_course_view_form
 msgid "Semesters"
-msgstr ""
+msgstr "Semestres"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Send & Print"
-msgstr ""
+msgstr "Enviar e imprimir"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 msgid "Send for Verification"
-msgstr ""
+msgstr "Enviar para verificación"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__sequence
 msgid "Sequence"
-msgstr ""
+msgstr "Secuencia"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_document__name
 msgid "Sequence of the document"
-msgstr ""
+msgstr "Secuencia del Documento"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_university_student__use_partner_credit_limit
 msgid "Set a value greater than 0.0 to activate a credit limit check"
 msgstr ""
+"Establezca un valor superior a 0.0 para activar la verificación del límite "
+"de crédito"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.account_move_view_form_fee_receipt
 msgid "Set as Checked"
-msgstr ""
+msgstr "Establecer como marcado"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_timetable_schedule_line__faculty_id
 msgid "Set faculty who is taking "
-msgstr ""
+msgstr "Establecer el profesorado que imparte la asignatura. "
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_account_move__partner_id
 msgid "Set student partner in customer"
-msgstr ""
+msgstr "Establecer socio estudiantil en cliente"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.exam_valuation_view_form
 msgid "Set to Draft"
-msgstr ""
+msgstr "Establecer como borrador"
 
 #. module: education_university_management
 #: model:ir.model.fields,help:education_university_management.field_fee_category__journal_id
@@ -4771,11 +4777,13 @@ msgid ""
 "Setting up of unique journal for each category help to distinguish account "
 "entries of each category "
 msgstr ""
+"La creación de un diario único para cada categoría ayuda a distinguir los "
+"asientos contables de cada categoría. "
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__partner_share
 msgid "Share Partner"
-msgstr ""
+msgstr "Compartir Socio"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__show_credit_limit
@@ -5872,49 +5880,49 @@ msgstr ""
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_view_form
 msgid "Verification"
-msgstr ""
+msgstr "Verificación"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.student_documents
 msgid "Verified By"
-msgstr ""
+msgstr "Verificado por"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_document__verified_date
 msgid "Verified Date"
-msgstr ""
+msgstr "Fecha de verificación"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_application__verified_by_id
 #: model:ir.model.fields,field_description:education_university_management.field_university_document__verified_by_id
 msgid "Verified by"
-msgstr ""
+msgstr "Verificado por"
 
 #. module: education_university_management
 #: model:ir.model.fields.selection,name:education_university_management.selection__university_application__state__verification
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_document_view_form
 msgid "Verify"
-msgstr ""
+msgstr "Verificar"
 
 #. module: education_university_management
 #: model_terms:ir.ui.view,arch_db:education_university_management.university_application_view_form
 msgid "Verify Application"
-msgstr ""
+msgstr "Verificar apliación"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__website_published
 msgid "Visible on current website"
-msgstr ""
+msgstr "Visible en la web"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_university_student__visitor_ids
 msgid "Visitors"
-msgstr ""
+msgstr "Visitantes"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__volume
 msgid "Volume"
-msgstr ""
+msgstr "Volumen"
 
 #. module: education_university_management
 #: model:ir.model.fields,field_description:education_university_management.field_fee_type__volume_uom_name
